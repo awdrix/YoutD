@@ -19,15 +19,7 @@ A simple YouTube video and audio downloader using `yt-dlp` and `Streamlit`.
 ```bash
 pip install -r requirements.txt
 ```
-
-## Usage
-
-### Running the application
-```bash
-streamlit run youtd.py
-```
-
-## Platform-specific Instructions
+## Running the application
 
 ### Linux
 Ensure `ffmpeg` is installed:
