@@ -9,7 +9,7 @@ A simple YouTube video and audio downloader using `yt-dlp` and `Streamlit`.
 
 ## Preview
 
-![Application Screenshot](https://raw.githubusercontent.com/awdrix/your-repo/main/demo/demo.png)
+![Application Screenshot](https://raw.githubusercontent.com/awdrix/YoutD/main/demo/demo.png)
 
 ### Requirements
 - Python 3.8+
