@@ -5,3 +5,5 @@ downloads/webps/*
 !downloads/audios/.gitkeep
 !downloads/videos/.gitkeep
 !downloads/webps/.gitkeep
+
+ffmpeg.exe
